@@ -1,11 +1,11 @@
 {
-  "name": "micro-rest",
+  "name": "micro-websocket",
   "description": "Boilerplate for NodeJS Microservice",
   "version": "0.0.0",
   "homepage": "",
   "main": "src",
   "license": "MIT",
-  "repository": "https://github.com/jsboilerplates/micro-rest",
+  "repository": "https://github.com/jsboilerplates/micro-websocket",
   "keywords": [
     "boiplerplate"
   ],
@@ -39,6 +39,7 @@
     "express": "^4.16.3",
     "helmet": "^3.12.1",
     "serve-favicon": "^2.5.0",
+    "socket.io": "^2.1.1",
     "winston": "^2.4.1"
   },
   "devDependencies": {
@@ -56,6 +57,7 @@
     "jest": "^23.1.0",
     "nodemon": "^1.17.5",
     "request": "^2.87.0",
+    "socket.io-client": "^2.1.1",
     "superagent": "^3.8.3",
     "supertest": "^3.1.0"
   },

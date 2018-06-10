@@ -1,5 +1,5 @@
 TN:
-SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-rest/src/app.hooks.js
+SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-websocket/src/app.hooks.js
 FNF:0
 FNH:0
 DA:2,1
@@ -10,7 +10,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-rest/src/app.js
+SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-websocket/src/app.js
 FNF:0
 FNH:0
 DA:1,1
@@ -51,7 +51,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-rest/src/channels.js
+SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-websocket/src/channels.js
 FN:1,(anonymous_0)
 FN:7,(anonymous_1)
 FN:12,(anonymous_2)
@@ -84,7 +84,7 @@ BRF:4
 BRH:1
 end_of_record
 TN:
-SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-rest/src/hooks/logger.js
+SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-websocket/src/hooks/logger.js
 FN:10,(anonymous_0)
 FN:11,(anonymous_1)
 FNF:2
@@ -112,7 +112,7 @@ BRF:6
 BRH:0
 end_of_record
 TN:
-SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-rest/src/middleware/index.js
+SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-websocket/src/middleware/index.js
 FN:2,(anonymous_0)
 FNF:1
 FNH:1
@@ -124,7 +124,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-rest/src/services/index.js
+SF:/Users/ainguyen/Development/Direction/Projects/jsboilerplates/micro-websocket/src/services/index.js
 FN:2,(anonymous_0)
 FNF:1
 FNH:1

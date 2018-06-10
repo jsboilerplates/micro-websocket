@@ -1,9 +1,12 @@
 import logger from 'winston'
-import app from './app'
+
 import config from 'config'
+import {server} from './app.socket'
 
-const server = app.listen(config.get('port'))
+server.listen(config.get('port'))
 
-server.on('listening', function () {
+server.on('listening', () => {
   return logger.info('Application started on http://%s:%d', config.get('host'), config.get('port'))
 })
+
+export default server

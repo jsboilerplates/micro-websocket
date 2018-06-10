@@ -1,9 +1,7 @@
-import SampleApi from './sample/sample.api'
-import express from 'express'
+import configSampleApi from './sample/sample.api'
 
-const router = express.Router()
+export default (socket) => {
+  socket.emit('connected', 'true')
 
-router.get('/samples', SampleApi.all)
-router.get('/samples/name/:keyword', SampleApi.allByName)
-
-export default router
+  configSampleApi(socket)
+}

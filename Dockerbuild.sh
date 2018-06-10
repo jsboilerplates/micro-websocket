@@ -1,2 +1,2 @@
-docker build -t jsboilerplates/micro-rest .
-docker tag  jsboilerplates/micro-rest jsboilerplates/micro-rest:0.0.0
+docker build -t jsboilerplates/micro-websocket .
+docker tag  jsboilerplates/micro-websocket jsboilerplates/micro-websocket:0.0.0
