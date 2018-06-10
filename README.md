@@ -1,4 +1,4 @@
-# Boilerplate for REST Microservice in NodeJS
+# Boilerplate for WebSocket Microservice in NodeJS
 [![Build Status](https://travis-ci.org/jsboilerplates/micro-websocket.svg?branch=master)](https://travis-ci.org/jsboilerplates/micro-websocket)
 [![codecov](https://codecov.io/gh/jsboilerplates/micro-websocket/branch/master/graph/badge.svg)](https://codecov.io/gh/jsboilerplates/micro-websocket)
 [![dependencies Status](https://david-dm.org/jsboilerplates/micro-websocket/status.svg)](https://david-dm.org/jsboilerplates/micro-websocket)
